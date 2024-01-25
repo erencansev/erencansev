@@ -7,7 +7,7 @@
     <a href="https://twitter.com/cansevui">tweets</a> .
     <a href="https://read.cv/cansev">read.cv</a> .
     <a href="https://www.codewars.com/users/cansev">codewars</a> .
-    <a href="https://codepen.io/cansevu">codepen</a> .
+    <a href="https://codepen.io/cansev">codepen</a> .
     <a href="mailto:mee.cansev@gmail.com">contact</a> 
   </samp>
 </p>
