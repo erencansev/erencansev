@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**erencansev/erencansev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://bento.me/cansev">me</a> .
+    <a href="https://www.linkedin.com/in/erencansev/">linkedn</a> .
+    <a href="https://stackoverflow.com/users/19581211/cansev">stackoverflow</a> .
+    <a href="https://medium.com/@cansev">medium</a> .
+    <a href="https://twitter.com/cansevui">tweets</a> .
+    <a href="https://read.cv/cansev">read.cv</a> .
+    <a href="https://www.codewars.com/users/cansev">codewars</a> .
+    <a href="https://codepen.io/cansevu">codepen</a> .
+    <a href="mailto:mee.cansev@gmail.com">contact</a> 
+  </samp>
+</p>
